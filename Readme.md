@@ -21,7 +21,7 @@
 
 - 🔭 I’m an aspiring Software developer.
 
-- 🔥 I’m currently diving deep into the world of BLockchain development and also solving DSA problems.
+- 🔥 I’m currently diving deep into the world of Blockchain development and also solving DSA problems.
 
 - 💬 Ask me about Web dev, anime, DSA, Open source.
 - 👨‍💻 All of my projects are available [here](https://github.com/oneknucklehead?tab=repositories)
