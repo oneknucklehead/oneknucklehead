@@ -67,7 +67,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oneknucklehead&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 </div>
-
+<p align="center">
+  <img src="https://github.com/oneknucklehead/oneknucklehead/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=oneknucklehead&label=Profile%20views&color=0e75b6&style=flat" alt="ZohebAhmed" />
-</div>  
+</div> 
 <div align="center"> Until next time! Peace ☮️✌️</div>
