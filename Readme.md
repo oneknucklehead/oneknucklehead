@@ -29,6 +29,13 @@
 
 - ⚡ Fun fact: I like to watch anime.
   <br><br>
+  
+## Writings
+
+* [How Novu Made Email Notifications Easy For Businesses?](https://aviyel.com/post/3866)
+* [What are react hooks, anyway?](https://aviyel.com/post/3844)
+* [Front-End Vs Back-End Development: What's The Difference?](https://aviyel.com/post/3878)
+* [More Writings...](https://aviyel.com/search?term=\*&uid=5762&root=blog)
 
 ## <div align="center">Languages and Tools I'm familiar with:</div>
 
@@ -54,6 +61,7 @@
 </div>
   <br><br>
   
+
 ## <div align="center">Support me:</div>  
 <div align="center"><a href="https://www.buymeacoffee.com/ZohebAhmed"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="ZohebAhmed" /></a></div>
 <hr>
