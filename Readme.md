@@ -17,13 +17,8 @@
 
 ## <div align="center">About me: </div>
 
-- 🚀 A sophomore engineering undergrad student pursuing CSE.
-
-- 🔭 I’m an aspiring Software developer.
-
-- 🔥 I’m currently diving deep into the world of Blockchain development and also solving DSA problems.
-
-- 💬 Ask me about Web dev, anime, DSA, Open source.
+- 🚀 I'm an Engineer.
+- 💬 Ask me about Freelance, Web dev, anime, DSA, Open source.
 - 👨‍💻 All of my projects are available [here](https://github.com/oneknucklehead?tab=repositories)
 - 📚 Passionate about Open source, Web Dev, Machine Learning & I enjoy learning new things.
 
